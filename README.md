@@ -1,4 +1,4 @@
-# The-Book-Store-Official
+# The-Book-Shop
 
 > **Check out my Instagram with 26K+ followers** [@swipingvisacards](https://instagram.com/swipingvisacards) • **Official Telegram:** (https://t.me/linkinbiochat)
 
@@ -8,9 +8,9 @@ If you're looking to buy spammed books or need some guidance, check out my Teleg
 
 ## 📸 Vouches
 
-<div align="center">
-  <img src="IMG_20260116_184648_293.jpg" alt="Vouch 1" width="300" style="margin-right: 20px;" />
-  <img src="IMG_20260116_184656_553.jpg" alt="Vouch 2" width="300" />
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <img src="IMG_20260116_184648_293.jpg" alt="Vouch 1" style="width: 300px; height: 600px; object-fit: contain; background-color: #f0f0f0; border-radius: 4px;" />
+  <img src="IMG_20260116_184656_553.jpg" alt="Vouch 2" style="width: 300px; height: 600px; object-fit: contain; background-color: #f0f0f0; border-radius: 4px;" />
 </div>
 
 ---
@@ -115,6 +115,12 @@ I am not aware of any balances on any of the books. When dealing , my job is to 
 
 I will not replace your book if the site processor declines it , nor if it declines in general or if you burn it 🔥
 
+Once you’ve read either my cashtag, or any of my crypto addresses, payment is expected within 5-7 minutes. If not, I WILL NOT hold the card for you and I’ll move on to the next buyer. Please ONLY PM ME IF YOU ARE PAYMENT READY!  🕊️
+
+There will be NO EXCEPTIONS for anyone👍
+
+## ⚠️ Disclaimer
+This project is provided for educational and experimental purposes. Use at your own discretion.
 Once you’ve read either my cashtag, or any of my crypto addresses, payment is expected within 5-7 minutes. If not, I WILL NOT hold the card for you and I’ll move on to the next buyer. Please ONLY PM ME IF YOU ARE PAYMENT READY!  🕊️
 
 There will be NO EXCEPTIONS for anyone👍
