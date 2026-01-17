@@ -125,5 +125,3 @@ Once you’ve read either my cashtag, or any of my crypto addresses, payment is 
 
 There will be NO EXCEPTIONS for anyone👍
 
-## ⚠️ Disclaimer
-This project is provided for educational and experimental purposes. Use at your own discretion.
